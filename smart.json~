@@ -1,9 +1,0 @@
-{
-    "name": "accounts-instagram-6",
-    "description": "Login service for instagram accounts",
-    "homepage": "https://github.com/khamoud/meteor-accounts-instagram",
-    "author": "Kris Hamoud (https://github.com/khamoud)",
-    "version": "0.0.3",
-    "git": "https://github.com/khamoud/meteor-accounts-instagram.git",
-    "packages": {}
-}
